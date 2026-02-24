@@ -39,4 +39,4 @@ I am a passionate developer focused on building impactful digital solutions and 
 ---
 
 ### 📬 Connect with Me
-[LinkedIn]([your-link-here](https://www.linkedin.com/in/neil-xander-4b7b8229a/)) | [Email](mailto:sabulaoneil_26@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/neil-xander-4b7b8229a/) | [Email](mailto:sabulaoneil_26@yahoo.com)
