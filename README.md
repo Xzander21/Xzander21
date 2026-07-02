@@ -90,10 +90,11 @@ I am a passionate developer focused on building impactful digital solutions and 
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xzander21&show_icons=true&theme=dark" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Xzander21&theme=dark&hide_border=false" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats-mu-one-16.vercel.app//api?username=Xzander21&show_icons=true&hide_border=false&title_color=22d3ee&icon_color=049fd9&text_color=e2e8f0&bg_color=05070d&border_color=164e63&cache_seconds=1800" height="180" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Xzander21&background=05070d&border=164e63&stroke=164e63&ring=049fd9&fire=22d3ee&currStreakNum=e2e8f0&currStreakLabel=22d3ee&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&hide_border=false" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xzander21&layout=compact&theme=dark" height="150" alt="top languages" />
+  <img src="https://github-readme-stats-mu-one-16.vercel.app//api/top-langs?username=Xzander21&layout=compact&title_color=22d3ee&text_color=e2e8f0&bg_color=05070d&border_color=164e63&cache_seconds=1800" height="150" alt="top languages" />
 </div>
+
