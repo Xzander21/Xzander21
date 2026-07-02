@@ -1,3 +1,11 @@
+<!-- ===== TOP BANNER / PICTURE ===== -->
+<!-- Replace the src below with your own image. Upload your picture to this repo
+     (Add file → Upload files), then set src to its name, e.g. src="banner.png".
+     You can add more <img> tags here for multiple pictures. -->
+<div align="center">
+  <img height="180" src="Picture_ado.jpg" alt="banner" />
+</div>
+
 # Hi there, I'm Neil Xander Sabulao 👋
 
 ### 🚀 Aspiring Developer · Systems & Network Infrastructure Enthusiast | 3rd-Year College Student
@@ -47,10 +55,10 @@ I am a passionate developer focused on building impactful digital solutions and 
 > A digital solution designed to streamline and manage inventory tracking for local barangay operations.
 * **Tech:** PHP, MySQL
 
-#### EduAksyon
+#### [EduAksyon](https://www.figma.com/proto/UOSts7fj2BQwttqwlve3KJ/EduAksyon--Copy-?node-id=183-3&p=f&t=lCP6oYbtRJ8kfF5I-1&scaling=min-zoom&content-scaling=fixed&page-id=183%3A2&starting-point-node-id=183%3A3&show-proto-sidebar=1)
 > Digital Study Resource & Attendance Hub for Public Schools. A research-driven project aimed at improving resource accessibility in the public sector.
 
-#### AVAMS — Audio-Visual Asset Management System
+#### [AVAMS — Audio-Visual Asset Management System](https://github.com/Xzander21/AVAMS-Audio-Visual-Asset-Management-System)
 > An enterprise-modeled equipment lifecycle tracker built with strict transaction-safety properties — robust try/catch/rollback blocks and multi-department concurrency mappings to secure data persistence.
 * **Tech:** Entity Framework Core, SQLite, MySQL
 
@@ -76,3 +84,16 @@ I am a passionate developer focused on building impactful digital solutions and 
 
 ### 📬 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/neil-xander-4b7b8229a/) | [Portfolio](https://xzander21.github.io) | [Email](mailto:sabulaoneil_26@yahoo.com)
+
+---
+
+### 📊 My Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xzander21&show_icons=true&theme=dark" height="180" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Xzander21&theme=dark&hide_border=false" height="180" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xzander21&layout=compact&theme=dark" height="150" alt="top languages" />
+</div>
