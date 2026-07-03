@@ -58,7 +58,7 @@ I am a passionate developer focused on building impactful digital solutions and 
 #### [EduAksyon](https://www.figma.com/proto/UOSts7fj2BQwttqwlve3KJ/EduAksyon--Copy-?node-id=183-3&p=f&t=lCP6oYbtRJ8kfF5I-1&scaling=min-zoom&content-scaling=fixed&page-id=183%3A2&starting-point-node-id=183%3A3&show-proto-sidebar=1)
 > Digital Study Resource & Attendance Hub for Public Schools. A research-driven project aimed at improving resource accessibility in the public sector.
 
-#### [AVAMS — Audio-Visual Asset Management System](https://github.com/Xzander21/AVAMS-Audio-Visual-Asset-Management-System](https://github.com/Xzander21/AVAMS-Audio-Visual-Asset-Management-System_PUBLIC.git)
+#### [AVAMS — Audio-Visual Asset Management System](https://github.com/Xzander21/AVAMS-Audio-Visual-Asset-Management-System_PUBLIC.git)
 > An enterprise-modeled equipment lifecycle tracker built with strict transaction-safety properties — robust try/catch/rollback blocks and multi-department concurrency mappings to secure data persistence.
 * **Tech:** Entity Framework Core, SQLite, MySQL
 
